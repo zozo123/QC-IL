@@ -1,4 +1,4 @@
-![](slides/twitter_logo.jpg  | width=100 )
+![](slides/twitter_logo.jpg  =250x)
 # Quantum Computing IL (QC-IL)
 
 
