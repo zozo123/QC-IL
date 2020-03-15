@@ -1,4 +1,4 @@
-![]("slides/twitter Logo.jpg")
+![](slides/twitter_ogo.jpg)
 # Quantum Computing IL (QC-IL)
 
 
